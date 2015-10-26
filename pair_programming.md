@@ -1,6 +1,8 @@
 My experience with pair programming
 ===================================
 
-I honestly tried to experience pair programming. The biggest problem for me was to find convenient time to work on this, when others are also available. I started 3 sessions at the time convinient to me - noone showed up. This is much more frustrating than working on the code.
+I sure had fun doing pair programming, especially on the refactoring step. I did learn a lot from my partner using Enumerable to the max, something which I was not even aware of.
 
-I prefer peer review of a completed code compared to someone watching behind my back and essentially wasting his time. I honestly see no benefits to pair programming
+The hardest thing was to organize video recording of the pair programming session as I needed to start the Hangout first and then share the right screen. This failed on first 2 attempts and I will try again.
+
+Still, I prefer peer review of a completed code compared to someone watching behind my back and essentially wasting some of his time.
